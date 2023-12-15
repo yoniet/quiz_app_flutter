@@ -16,7 +16,7 @@ android/
 ios/
 macos/
 web/
-.gitignore
+
 
 # IntelliJ related
 *.iml
